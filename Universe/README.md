@@ -17,8 +17,6 @@ It provides an interactive and visually appealing interface to explore fascinati
 The goal of this project is to enhance **front-end development** skills, practice building a **responsive interface**, and demonstrate creativity in **UI design**.
 
 
-## 🌌 Project Preview
 
-![Explore the Universe](Universe/Explore the Universe.png)
 
 ---
