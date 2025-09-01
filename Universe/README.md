@@ -19,6 +19,6 @@ The goal of this project is to enhance **front-end development** skills, practic
 
 ## 🌌 Project Preview
 
-![Explore the Universe](D:\مشاريعي\htmal)
+![Explore the Universe](Universe/Explore the Universe.png)
 
 ---
